@@ -60,11 +60,3 @@ Creates file: `python-developer.csv`
 
 * Make sure you have an active internet connection.
 * This script is tailored to Wuzzuf’s current HTML structure — changes to the site may require updates.
-
-## 📄 License
-
-Free to use under the MIT License.
-
----
-
-Let me know if you want me to auto-generate the `requirements.txt` or help create the GitHub repo structure.
