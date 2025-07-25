@@ -63,7 +63,7 @@ def soup(num,url):
     return df
 
 def Wzzuff(name):
-    url=Serach_on()
+    url=Serach_on(name)
     nPage=number_of_Page(url)
     df=soup(nPage,url)
     df.to_csv(f"{name.replace('%20','-')}.csv")
